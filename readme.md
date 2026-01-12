@@ -370,8 +370,8 @@ If you find this project useful, please consider:
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/secure-notes-extension/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/secure-notes-extension/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Everlasting12/secure-notes-extension/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Everlasting12/secure-notes-extension/discussions)
 - **Email**: sidheshparab34@gmail.com
 
 ---
